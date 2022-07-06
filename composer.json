@@ -1,0 +1,8 @@
+{
+  "name": "soderlind/mu-disable-gravatar",
+  "description": "MU Disable Gravatar",
+  "type": "wordpress-muplugin",
+  "homepage": "https://github.com/soderlind/mu-disable-gravatar",
+  "license": "GPL-2.0-or-later",
+  "require": {}
+}
