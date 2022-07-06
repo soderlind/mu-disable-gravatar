@@ -12,7 +12,7 @@
  * Plugin URI: https://github.com/soderlind/mu-disable-gravatar
  * GitHub Plugin URI: https://github.com/soderlind/mu-disable-gravatar
  * Description: Disable Gravatar.
- * Version:     0.0.1
+ * Version:     1.0.0
  * Author:      Per Soderlind
  * Author URI:  https://soderlind.no
  * License:     GPL-2.0+
